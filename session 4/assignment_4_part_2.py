@@ -1,4 +1,4 @@
-#CIS 206 Assignment 3: BMI with conditions
+#CIS 206 Assignment 4: BMI with loops
 
 
 #Constants
@@ -110,5 +110,6 @@ def main():
 
 main()
 #Runs functions/whole BMI calculator
+
 
 
