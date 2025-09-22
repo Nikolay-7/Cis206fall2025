@@ -1,4 +1,4 @@
-# CIS 206 Assignment 3: BMI with loops
+# CIS 206 Assignment 4: BMI with loops
 #
 #Changes for Activity 3 (To follow documentation standards):
 #Added function docstrings instead of comments for clarity
@@ -128,4 +128,5 @@ def main():
 if __name__ == "__main__":
     main()
 #Runs functions/whole BMI calculator
+
 
