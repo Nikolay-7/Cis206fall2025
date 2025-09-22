@@ -1,8 +1,8 @@
-#CIS 206 Assignment 3: BMI with loops
+#CIS 206 Assignment 4: BMI with loops
 #
 #Changes for Activity 4 (BMI Table):
 #Added new function bmi_table() that generates the BMI table
-#Table shows BMI for heights 58–76 inches and weights 100–250 pounds with 2in increments and 10lb increments
+#Table shows BMI for heights 58â€“76 inches and weights 100â€“250 pounds with 2in increments and 10lb increments
 #Reuses existing conversion and calculation functions
 
 # Constants
@@ -154,4 +154,5 @@ def main():
 if __name__ == "__main__":
     main()
 #Runs functions/whole BMI calculator
+
 
